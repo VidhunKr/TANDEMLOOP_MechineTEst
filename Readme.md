@@ -7,3 +7,4 @@
 
 ```bash
 node Problem-1.js
+node Problem-2.js
